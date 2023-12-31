@@ -1,1 +1,1 @@
-print("ngetest dulu")
+masa ia berubah
